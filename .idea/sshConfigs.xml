@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="ssh-nadia-elh.alwaysdata.net" id="8eb85d07-a4fd-4998-bd08-d2e0311df925" port="22" nameFormat="DESCRIPTIVE" username="nadia-elh" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
